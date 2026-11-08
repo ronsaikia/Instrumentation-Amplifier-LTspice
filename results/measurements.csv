@@ -1,0 +1,10 @@
+experiment,metric,value,units,source,comment
+baseline,theoretical differential gain magnitude,101,V/V,ideal resistor-ratio calculation,"(1+2R/RG), output-stage ratio 1"
+baseline,differential input peak-to-peak,0.00399999786168,V,01_baseline_gain.txt,0.2–1 s
+baseline,output peak-to-peak,0.403958141804,V,01_baseline_gain.txt,0.2–1 s
+baseline,simulated gain magnitude,100.989589438,V/V,01_baseline_gain.txt,from logged .meas
+interference,simulated gain magnitude,100.989469547,V/V,02_interference_gain.txt,archived practical log
+mismatch,common-mode input peak-to-peak,0.199999958277,V,03_mismatch_cmrr.txt,archived run
+mismatch,output peak-to-peak,0.00100000656676,V,03_mismatch_cmrr.txt,saved mismatch .asc does not capture resistor modification
+mismatch,common-mode gain magnitude,0.00500003387687,V/V,03_mismatch_cmrr.txt,archived run only
+mismatch,CMRR,86.1060224995,dB,03_mismatch_cmrr.txt,derived using Ad 100.989
