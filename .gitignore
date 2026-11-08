@@ -1,0 +1,12 @@
+# LTspice generated data (recreated on simulation run)
+*.raw
+*.op.raw
+*.log
+*.db
+*.net
+*.fft
+*.wfm
+# OS/editor files
+.DS_Store
+__MACOSX/
+*.tmp
