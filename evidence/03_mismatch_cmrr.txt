@@ -1,0 +1,5 @@
+Selected lines from uploaded LTspice log: Instrumentation_amplifier_ecg_1percent_mismatch.log
+vcm_pp: PP(V(INP) )=0.199999958277 FROM 0.02 TO 0.2
+vout_cm_pp: PP(V(VOUT) )=0.00100000656676 FROM 0.02 TO 0.2
+acm: VOUT_CM_PP/VCM_PP=0.00500003387687
+cmrr_db: 20*ln(100.989/ACM)/ln(10)=86.1060224995

@@ -1,0 +1,4 @@
+Selected lines from uploaded LTspice log: Instrumentation_amplifier_ecg.log
+vdiff_pp: PP(V(INP,INM) )=0.00399999786168 FROM 0.2 TO 1
+vout_pp: PP(V(VOUT) )=0.403958141804 FROM 0.2 TO 1
+gain: VOUT_PP/VDIFF_PP=100.989589438
