@@ -94,7 +94,7 @@ figures/         Four plots derived from supplied LTspice RAW data
 results/         Logged results in CSV form
 notes/           Analytical derivations and reproducibility caveats
 data/            Reconstructed ECG-like stimulus (not original PWL)
-evidence/        Redacted log excerpts, original saved .asc files; add your screenshots here
+evidence/        Redacted log excerpts, original saved .asc files
 ```
 
 ## Reproduce and verify
